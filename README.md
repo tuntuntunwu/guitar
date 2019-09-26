@@ -16,7 +16,11 @@
 
 ---
 
+basic：
 
+![](./pictures/twinkle-twinkle-little-star.png)
+
+![](./pictures/ode-to-joy.jpeg)
 
 ---
 
