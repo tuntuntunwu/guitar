@@ -24,3 +24,13 @@ basic：
 
 ---
 
+彩虹：
+
+<https://www.bilibili.com/video/av22156372?from=search&seid=6062191441034075041>
+
+![](./pictures/caihong0)
+
+![](./pictures/caihong1)
+
+![](./pictures/caihong2)
+
