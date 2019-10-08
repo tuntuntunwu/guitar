@@ -32,6 +32,16 @@ EADGBE调弦法是标准调弦法（standard），是人们几百年来摸索出
 
 ---
 
+我爱你：
+
+<https://www.bilibili.com/video/av62554295>
+
+D A Bm G 两遍\
+Em A Fm Bm 两遍\
+E A
+
+---
+
 彩虹：
 
 <https://www.bilibili.com/video/av22156372?from=search&seid=6062191441034075041>
