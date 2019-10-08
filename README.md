@@ -22,6 +22,10 @@
 
 basic：
 
+EADGBE调弦法是标准调弦法（standard），是人们几百年来摸索出来的最方便演奏乐曲的调弦法。
+
+![](./pictures/c.jpeg)
+
 ![](./pictures/twinkle-twinkle-little-star.png)
 
 ![](./pictures/ode-to-joy.jpeg)
