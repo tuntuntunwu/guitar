@@ -2,6 +2,8 @@
 
 ---
 
+### intro：
+
 调音器调音：
 
 <https://www.bilibili.com/video/av40799340?from=search&seid=7216391862831788890>
@@ -20,19 +22,17 @@
 
 ---
 
-basic：
+### basic：
 
 EADGBE调弦法是标准调弦法（standard），是人们几百年来摸索出来的最方便演奏乐曲的调弦法。
 
 ![](./pictures/c.jpeg)
-
 ![](./pictures/twinkle-twinkle-little-star.png)
-
 ![](./pictures/ode-to-joy.jpeg)
 
 ---
 
-我爱你：
+### 我爱你：
 
 <https://www.bilibili.com/video/av62554295>
 
@@ -42,13 +42,11 @@ E A
 
 ---
 
-彩虹：
+### 彩虹：
 
 <https://www.bilibili.com/video/av22156372?from=search&seid=6062191441034075041>
 
 ![](./pictures/caihong0)
-
 ![](./pictures/caihong1)
-
 ![](./pictures/caihong2)
 
