@@ -6,7 +6,7 @@
 
 调音器调音：
 
-<https://www.bilibili.com/video/av40799340?from=search&seid=7216391862831788890>
+<https://www.bilibili.com/video/av40799340>
 
 在线节拍器：
 
@@ -18,7 +18,7 @@
 
 吉他教学：
 
-<https://www.bilibili.com/video/av7026144?from=search&seid=15158263202857946619> 
+<https://www.bilibili.com/video/av7026144>
 
 ---
 
@@ -44,7 +44,7 @@ E A
 
 ### 彩虹：
 
-<https://www.bilibili.com/video/av22156372?from=search&seid=6062191441034075041>
+<https://www.bilibili.com/video/av22156372>
 
 ![](./pictures/caihong0)
 ![](./pictures/caihong1)
